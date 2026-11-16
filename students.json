@@ -35,6 +35,147 @@
       "registerNo": "MCA005",
       "department": "MCA",
       "email": "vikram@gmail.com"
-    }
+    },
+    
+{
+  "id": 6,
+  "name": "Ananya Sharma",
+  "registerNo": "MCA006",
+  "department": "MCA",
+  "email": "ananya@gmail.com"
+},
+{
+  "id": 7,
+  "name": "Karthik Reddy",
+  "registerNo": "MCA007",
+  "department": "MCA",
+  "email": "karthik@gmail.com"
+},
+{
+  "id": 8,
+  "name": "Meghana Rao",
+  "registerNo": "MCA008",
+  "department": "MCA",
+  "email": "meghana@gmail.com"
+},
+{
+  "id": 9,
+  "name": "Aditya Kumar",
+  "registerNo": "MCA009",
+  "department": "MCA",
+  "email": "aditya@gmail.com"
+},
+{
+  "id": 10,
+  "name": "Divya Nair",
+  "registerNo": "MCA010",
+  "department": "MCA",
+  "email": "divya@gmail.com"
+},
+{
+  "id": 11,
+  "name": "Rohit Verma",
+  "registerNo": "MCA011",
+  "department": "MCA",
+  "email": "rohit@gmail.com"
+},
+{
+  "id": 12,
+  "name": "Pooja Shetty",
+  "registerNo": "MCA012",
+  "department": "MCA",
+  "email": "pooja@gmail.com"
+},
+{
+  "id": 13,
+  "name": "Naveen Kumar",
+  "registerNo": "MCA013",
+  "department": "MCA",
+  "email": "naveen@gmail.com"
+},
+{
+  "id": 14,
+  "name": "Sneha Patel",
+  "registerNo": "MCA014",
+  "department": "MCA",
+  "email": "sneha.patel@gmail.com"
+},
+{
+  "id": 15,
+  "name": "Abhishek Rao",
+  "registerNo": "MCA015",
+  "department": "MCA",
+  "email": "abhishek@gmail.com"
+},
+{
+  "id": 16,
+  "name": "Priyanka Das",
+  "registerNo": "MCA016",
+  "department": "MCA",
+  "email": "priyanka@gmail.com"
+},
+{
+  "id": 17,
+  "name": "Sanjay Gowda",
+  "registerNo": "MCA017",
+  "department": "MCA",
+  "email": "sanjay@gmail.com"
+},
+{
+  "id": 18,
+  "name": "Aishwarya Menon",
+  "registerNo": "MCA018",
+  "department": "MCA",
+  "email": "aishwarya@gmail.com"
+},
+{
+  "id": 19,
+  "name": "Varun Krishna",
+  "registerNo": "MCA019",
+  "department": "MCA",
+  "email": "varun@gmail.com"
+},
+{
+  "id": 20,
+  "name": "Keerthana R",
+  "registerNo": "MCA020",
+  "department": "MCA",
+  "email": "keerthana@gmail.com"
+},
+{
+  "id": 21,
+  "name": "Manoj Kumar",
+  "registerNo": "MCA021",
+  "department": "MCA",
+  "email": "manoj@gmail.com"
+},
+{
+  "id": 22,
+  "name": "Harshitha S",
+  "registerNo": "MCA022",
+  "department": "MCA",
+  "email": "harshitha@gmail.com"
+},
+{
+  "id": 23,
+  "name": "Akash Bhat",
+  "registerNo": "MCA023",
+  "department": "MCA",
+  "email": "akash@gmail.com"
+},
+{
+  "id": 24,
+  "name": "Monisha K",
+  "registerNo": "MCA024",
+  "department": "MCA",
+  "email": "monisha@gmail.com"
+},
+{
+  "id": 25,
+  "name": "Deepak Sharma",
+  "registerNo": "MCA025",
+  "department": "MCA",
+  "email": "deepak@gmail.com"
+}
   ]
 }
