@@ -1,0 +1,40 @@
+
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Arun Kumar",
+      "registerNo": "MCA001",
+      "department": "MCA",
+      "email": "arun@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Priya Sharma",
+      "registerNo": "MCA002",
+      "department": "MCA",
+      "email": "priya@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Rahul Kumar",
+      "registerNo": "MCA003",
+      "department": "MCA",
+      "email": "rahul@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Sneha Reddy",
+      "registerNo": "MCA004",
+      "department": "MCA",
+      "email": "sneha@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Vikram Singh",
+      "registerNo": "MCA005",
+      "department": "MCA",
+      "email": "vikram@gmail.com"
+    }
+  ]
+}
